@@ -9,4 +9,4 @@ describe(UniqueIdService.name, () => { // não passar o nome da classe como stri
 });
 
 // jasmine escreve teste
-// karma executa
+// karma executa e roda o comando jasmine
